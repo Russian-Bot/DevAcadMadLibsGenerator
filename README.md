@@ -22,3 +22,11 @@ the end with the input included.
 A pretty fun beginning project that gets you thinking about how to manipulate user inputted data.
 Compared to the prior projects, this project focuses far more on strings and concatenating.
 Have some fun coming up with some wacky stories for this!
+
+### Solution
+Create a number of random selections of text that can be knitted together by the user inputs, so many stories are possible
+
+### Technicals
+Populate 1D lists with snippets of text to knit together the user input.
+Prompt for user input of a noun, adverb and verb. Randomly select pieces of text from each of the lists and display it.
+Always allow the user to exit if they want to. 
